@@ -1,0 +1,64 @@
+[
+  {
+    "version_id": "sv-n01-v1",
+    "site_id": "N-01",
+    "boundary_version": "v1",
+    "catchment_zones": [
+      "zone-a"
+    ],
+    "effective_from": "2026-01-01T00:00",
+    "effective_to": "2026-10-04T21:59",
+    "is_correction": false,
+    "correction_reason": null
+  },
+  {
+    "version_id": "sv-n01-v2",
+    "site_id": "N-01",
+    "boundary_version": "v2",
+    "catchment_zones": [
+      "zone-a",
+      "zone-c"
+    ],
+    "effective_from": "2026-10-04T22:00",
+    "effective_to": null,
+    "is_correction": true,
+    "correction_reason": "边界勘误：zone-c 实际汇入 N-01 街区"
+  },
+  {
+    "version_id": "sv-n02-v1",
+    "site_id": "N-02",
+    "boundary_version": "v1",
+    "catchment_zones": [
+      "zone-b",
+      "zone-c"
+    ],
+    "effective_from": "2026-01-01T00:00",
+    "effective_to": "2026-10-04T21:59",
+    "is_correction": false,
+    "correction_reason": null
+  },
+  {
+    "version_id": "sv-n02-v2",
+    "site_id": "N-02",
+    "boundary_version": "v2",
+    "catchment_zones": [
+      "zone-b"
+    ],
+    "effective_from": "2026-10-04T22:00",
+    "effective_to": null,
+    "is_correction": true,
+    "correction_reason": "边界勘误：zone-c 移交 N-01 街区"
+  },
+  {
+    "version_id": "sv-n03-v1",
+    "site_id": "N-03",
+    "boundary_version": "v1",
+    "catchment_zones": [
+      "zone-d"
+    ],
+    "effective_from": "2026-01-01T00:00",
+    "effective_to": null,
+    "is_correction": false,
+    "correction_reason": null
+  }
+]

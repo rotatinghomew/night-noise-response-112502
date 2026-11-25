@@ -2,6 +2,7 @@
   {
     "reading_id": "s-001",
     "site_id": "N-01",
+    "sensor_id": "main",
     "observed_at": "2026-10-03T22:00",
     "db": 68,
     "quality": "valid"
@@ -9,6 +10,7 @@
   {
     "reading_id": "s-002",
     "site_id": "N-01",
+    "sensor_id": "main",
     "observed_at": "2026-10-03T23:00",
     "db": null,
     "quality": "offline"
@@ -16,8 +18,641 @@
   {
     "reading_id": "s-003",
     "site_id": "N-02",
+    "sensor_id": "main",
     "observed_at": "2026-10-03T23:00",
     "db": 51,
     "quality": "partial"
+  },
+  {
+    "reading_id": "s-004",
+    "site_id": "N-01",
+    "sensor_id": "main",
+    "observed_at": "2026-10-02T22:00",
+    "db": 70,
+    "quality": "valid"
+  },
+  {
+    "reading_id": "s-005",
+    "site_id": "N-01",
+    "sensor_id": "main",
+    "observed_at": "2026-10-02T23:00",
+    "db": 69,
+    "quality": "valid"
+  },
+  {
+    "reading_id": "s-006",
+    "site_id": "N-01",
+    "sensor_id": "main",
+    "observed_at": "2026-10-03T00:00",
+    "db": 71,
+    "quality": "valid"
+  },
+  {
+    "reading_id": "s-007",
+    "site_id": "N-01",
+    "sensor_id": "main",
+    "observed_at": "2026-10-03T01:00",
+    "db": 66,
+    "quality": "valid"
+  },
+  {
+    "reading_id": "s-008",
+    "site_id": "N-01",
+    "sensor_id": "main",
+    "observed_at": "2026-10-03T02:00",
+    "db": 64,
+    "quality": "valid"
+  },
+  {
+    "reading_id": "s-009",
+    "site_id": "N-01",
+    "sensor_id": "main",
+    "observed_at": "2026-10-03T03:00",
+    "db": 62,
+    "quality": "valid"
+  },
+  {
+    "reading_id": "s-010",
+    "site_id": "N-01",
+    "sensor_id": "main",
+    "observed_at": "2026-10-03T04:00",
+    "db": 60,
+    "quality": "valid"
+  },
+  {
+    "reading_id": "s-011",
+    "site_id": "N-01",
+    "sensor_id": "main",
+    "observed_at": "2026-10-03T05:00",
+    "db": 58,
+    "quality": "valid"
+  },
+  {
+    "reading_id": "s-012",
+    "site_id": "N-01",
+    "sensor_id": "main",
+    "observed_at": "2026-10-04T00:00",
+    "db": null,
+    "quality": "offline"
+  },
+  {
+    "reading_id": "s-013",
+    "site_id": "N-01",
+    "sensor_id": "main",
+    "observed_at": "2026-10-04T01:00",
+    "db": 67,
+    "quality": "valid"
+  },
+  {
+    "reading_id": "s-014",
+    "site_id": "N-01",
+    "sensor_id": "main",
+    "observed_at": "2026-10-04T02:00",
+    "db": 63,
+    "quality": "valid"
+  },
+  {
+    "reading_id": "s-015",
+    "site_id": "N-01",
+    "sensor_id": "main",
+    "observed_at": "2026-10-04T03:00",
+    "db": 60,
+    "quality": "valid"
+  },
+  {
+    "reading_id": "s-016",
+    "site_id": "N-01",
+    "sensor_id": "main",
+    "observed_at": "2026-10-04T04:00",
+    "db": 57,
+    "quality": "valid"
+  },
+  {
+    "reading_id": "s-017",
+    "site_id": "N-01",
+    "sensor_id": "main",
+    "observed_at": "2026-10-04T05:00",
+    "db": 55,
+    "quality": "valid"
+  },
+  {
+    "reading_id": "s-018",
+    "site_id": "N-01",
+    "sensor_id": "main",
+    "observed_at": "2026-10-04T22:00",
+    "db": 66,
+    "quality": "valid"
+  },
+  {
+    "reading_id": "s-019",
+    "site_id": "N-01",
+    "sensor_id": "main",
+    "observed_at": "2026-10-04T23:00",
+    "db": null,
+    "quality": "maintenance"
+  },
+  {
+    "reading_id": "s-020",
+    "site_id": "N-01",
+    "sensor_id": "main",
+    "observed_at": "2026-10-05T00:00",
+    "db": null,
+    "quality": "maintenance"
+  },
+  {
+    "reading_id": "s-021",
+    "site_id": "N-01",
+    "sensor_id": "main",
+    "observed_at": "2026-10-05T01:00",
+    "db": 64,
+    "quality": "valid"
+  },
+  {
+    "reading_id": "s-022",
+    "site_id": "N-01",
+    "sensor_id": "main",
+    "observed_at": "2026-10-05T02:00",
+    "db": 60,
+    "quality": "valid"
+  },
+  {
+    "reading_id": "s-023",
+    "site_id": "N-01",
+    "sensor_id": "main",
+    "observed_at": "2026-10-05T03:00",
+    "db": 58,
+    "quality": "valid"
+  },
+  {
+    "reading_id": "s-024",
+    "site_id": "N-01",
+    "sensor_id": "main",
+    "observed_at": "2026-10-05T04:00",
+    "db": 56,
+    "quality": "valid"
+  },
+  {
+    "reading_id": "s-025",
+    "site_id": "N-01",
+    "sensor_id": "main",
+    "observed_at": "2026-10-05T05:00",
+    "db": 54,
+    "quality": "valid"
+  },
+  {
+    "reading_id": "s-026",
+    "site_id": "N-01",
+    "sensor_id": "main",
+    "observed_at": "2026-10-05T22:00",
+    "db": 62,
+    "quality": "valid"
+  },
+  {
+    "reading_id": "s-027",
+    "site_id": "N-01",
+    "sensor_id": "main",
+    "observed_at": "2026-10-05T23:00",
+    "db": 61,
+    "quality": "valid"
+  },
+  {
+    "reading_id": "s-028",
+    "site_id": "N-01",
+    "sensor_id": "main",
+    "observed_at": "2026-10-06T00:00",
+    "db": 60,
+    "quality": "valid"
+  },
+  {
+    "reading_id": "s-029",
+    "site_id": "N-01",
+    "sensor_id": "main",
+    "observed_at": "2026-10-06T01:00",
+    "db": 59,
+    "quality": "partial"
+  },
+  {
+    "reading_id": "s-030",
+    "site_id": "N-01",
+    "sensor_id": "main",
+    "observed_at": "2026-10-06T02:00",
+    "db": 57,
+    "quality": "valid"
+  },
+  {
+    "reading_id": "s-031",
+    "site_id": "N-01",
+    "sensor_id": "main",
+    "observed_at": "2026-10-06T03:00",
+    "db": 55,
+    "quality": "valid"
+  },
+  {
+    "reading_id": "s-032",
+    "site_id": "N-01",
+    "sensor_id": "main",
+    "observed_at": "2026-10-06T04:00",
+    "db": 53,
+    "quality": "valid"
+  },
+  {
+    "reading_id": "s-033",
+    "site_id": "N-01",
+    "sensor_id": "main",
+    "observed_at": "2026-10-06T05:00",
+    "db": 52,
+    "quality": "valid"
+  },
+  {
+    "reading_id": "s-034",
+    "site_id": "N-01",
+    "sensor_id": "main",
+    "observed_at": "2026-10-06T22:00",
+    "db": 63,
+    "quality": "valid"
+  },
+  {
+    "reading_id": "s-035",
+    "site_id": "N-01",
+    "sensor_id": "main",
+    "observed_at": "2026-10-06T23:00",
+    "db": null,
+    "quality": "offline"
+  },
+  {
+    "reading_id": "s-036",
+    "site_id": "N-01",
+    "sensor_id": "main",
+    "observed_at": "2026-10-07T01:00",
+    "db": 60,
+    "quality": "partial"
+  },
+  {
+    "reading_id": "s-037",
+    "site_id": "N-01",
+    "sensor_id": "main",
+    "observed_at": "2026-10-07T03:00",
+    "db": 55,
+    "quality": "valid"
+  },
+  {
+    "reading_id": "s-038",
+    "site_id": "N-01",
+    "sensor_id": "main",
+    "observed_at": "2026-10-07T04:00",
+    "db": 53,
+    "quality": "valid"
+  },
+  {
+    "reading_id": "s-039",
+    "site_id": "N-01",
+    "sensor_id": "main",
+    "observed_at": "2026-10-07T05:00",
+    "db": 52,
+    "quality": "valid"
+  },
+  {
+    "reading_id": "s-040",
+    "site_id": "N-02",
+    "sensor_id": "main",
+    "observed_at": "2026-10-02T22:00",
+    "db": 60,
+    "quality": "valid"
+  },
+  {
+    "reading_id": "s-041",
+    "site_id": "N-02",
+    "sensor_id": "main",
+    "observed_at": "2026-10-02T23:00",
+    "db": 62,
+    "quality": "valid"
+  },
+  {
+    "reading_id": "s-042",
+    "site_id": "N-02",
+    "sensor_id": "main",
+    "observed_at": "2026-10-03T00:00",
+    "db": 61,
+    "quality": "valid"
+  },
+  {
+    "reading_id": "s-043",
+    "site_id": "N-02",
+    "sensor_id": "main",
+    "observed_at": "2026-10-03T01:00",
+    "db": 59,
+    "quality": "valid"
+  },
+  {
+    "reading_id": "s-044",
+    "site_id": "N-02",
+    "sensor_id": "main",
+    "observed_at": "2026-10-03T02:00",
+    "db": 57,
+    "quality": "valid"
+  },
+  {
+    "reading_id": "s-045",
+    "site_id": "N-02",
+    "sensor_id": "main",
+    "observed_at": "2026-10-03T03:00",
+    "db": 55,
+    "quality": "valid"
+  },
+  {
+    "reading_id": "s-046",
+    "site_id": "N-02",
+    "sensor_id": "main",
+    "observed_at": "2026-10-03T04:00",
+    "db": 53,
+    "quality": "valid"
+  },
+  {
+    "reading_id": "s-047",
+    "site_id": "N-02",
+    "sensor_id": "main",
+    "observed_at": "2026-10-03T05:00",
+    "db": 52,
+    "quality": "valid"
+  },
+  {
+    "reading_id": "s-048",
+    "site_id": "N-02",
+    "sensor_id": "main",
+    "observed_at": "2026-10-04T00:00",
+    "db": 55,
+    "quality": "valid"
+  },
+  {
+    "reading_id": "s-049",
+    "site_id": "N-02",
+    "sensor_id": "main",
+    "observed_at": "2026-10-04T01:00",
+    "db": 56,
+    "quality": "valid"
+  },
+  {
+    "reading_id": "s-050",
+    "site_id": "N-02",
+    "sensor_id": "main",
+    "observed_at": "2026-10-04T02:00",
+    "db": 54,
+    "quality": "valid"
+  },
+  {
+    "reading_id": "s-051",
+    "site_id": "N-02",
+    "sensor_id": "main",
+    "observed_at": "2026-10-04T03:00",
+    "db": 52,
+    "quality": "valid"
+  },
+  {
+    "reading_id": "s-052",
+    "site_id": "N-02",
+    "sensor_id": "main",
+    "observed_at": "2026-10-04T04:00",
+    "db": 51,
+    "quality": "valid"
+  },
+  {
+    "reading_id": "s-053",
+    "site_id": "N-02",
+    "sensor_id": "main",
+    "observed_at": "2026-10-04T05:00",
+    "db": 50,
+    "quality": "valid"
+  },
+  {
+    "reading_id": "s-054",
+    "site_id": "N-02",
+    "sensor_id": "main",
+    "observed_at": "2026-10-04T23:00",
+    "db": 57,
+    "quality": "valid"
+  },
+  {
+    "reading_id": "s-055",
+    "site_id": "N-02",
+    "sensor_id": "main",
+    "observed_at": "2026-10-05T00:00",
+    "db": 58,
+    "quality": "valid"
+  },
+  {
+    "reading_id": "s-056",
+    "site_id": "N-02",
+    "sensor_id": "main",
+    "observed_at": "2026-10-05T01:00",
+    "db": 56,
+    "quality": "valid"
+  },
+  {
+    "reading_id": "s-057",
+    "site_id": "N-02",
+    "sensor_id": "main",
+    "observed_at": "2026-10-05T02:00",
+    "db": 54,
+    "quality": "valid"
+  },
+  {
+    "reading_id": "s-058",
+    "site_id": "N-02",
+    "sensor_id": "main",
+    "observed_at": "2026-10-05T03:00",
+    "db": 52,
+    "quality": "valid"
+  },
+  {
+    "reading_id": "s-059",
+    "site_id": "N-02",
+    "sensor_id": "main",
+    "observed_at": "2026-10-05T04:00",
+    "db": 50,
+    "quality": "valid"
+  },
+  {
+    "reading_id": "s-060",
+    "site_id": "N-02",
+    "sensor_id": "main",
+    "observed_at": "2026-10-05T05:00",
+    "db": 49,
+    "quality": "valid"
+  },
+  {
+    "reading_id": "s-061",
+    "site_id": "N-02",
+    "sensor_id": "main",
+    "observed_at": "2026-10-05T23:00",
+    "db": null,
+    "quality": "maintenance"
+  },
+  {
+    "reading_id": "s-062",
+    "site_id": "N-02",
+    "sensor_id": "main",
+    "observed_at": "2026-10-06T00:00",
+    "db": 56,
+    "quality": "valid"
+  },
+  {
+    "reading_id": "s-063",
+    "site_id": "N-02",
+    "sensor_id": "main",
+    "observed_at": "2026-10-06T01:00",
+    "db": 55,
+    "quality": "valid"
+  },
+  {
+    "reading_id": "s-064",
+    "site_id": "N-02",
+    "sensor_id": "main",
+    "observed_at": "2026-10-06T02:00",
+    "db": 53,
+    "quality": "valid"
+  },
+  {
+    "reading_id": "s-065",
+    "site_id": "N-02",
+    "sensor_id": "main",
+    "observed_at": "2026-10-06T03:00",
+    "db": 51,
+    "quality": "valid"
+  },
+  {
+    "reading_id": "s-066",
+    "site_id": "N-02",
+    "sensor_id": "main",
+    "observed_at": "2026-10-06T04:00",
+    "db": 50,
+    "quality": "valid"
+  },
+  {
+    "reading_id": "s-067",
+    "site_id": "N-02",
+    "sensor_id": "main",
+    "observed_at": "2026-10-06T05:00",
+    "db": 49,
+    "quality": "valid"
+  },
+  {
+    "reading_id": "s-068",
+    "site_id": "N-02",
+    "sensor_id": "main",
+    "observed_at": "2026-10-07T00:00",
+    "db": 57,
+    "quality": "valid"
+  },
+  {
+    "reading_id": "s-069",
+    "site_id": "N-02",
+    "sensor_id": "main",
+    "observed_at": "2026-10-07T01:00",
+    "db": 59,
+    "quality": "valid"
+  },
+  {
+    "reading_id": "s-070",
+    "site_id": "N-02",
+    "sensor_id": "main",
+    "observed_at": "2026-10-07T02:00",
+    "db": 56,
+    "quality": "valid"
+  },
+  {
+    "reading_id": "s-071",
+    "site_id": "N-02",
+    "sensor_id": "main",
+    "observed_at": "2026-10-07T03:00",
+    "db": 54,
+    "quality": "valid"
+  },
+  {
+    "reading_id": "s-072",
+    "site_id": "N-02",
+    "sensor_id": "main",
+    "observed_at": "2026-10-07T04:00",
+    "db": 52,
+    "quality": "valid"
+  },
+  {
+    "reading_id": "s-073",
+    "site_id": "N-02",
+    "sensor_id": "main",
+    "observed_at": "2026-10-07T05:00",
+    "db": 50,
+    "quality": "valid"
+  },
+  {
+    "reading_id": "s-074",
+    "site_id": "N-03",
+    "sensor_id": "main",
+    "observed_at": "2026-10-02T23:00",
+    "db": 66,
+    "quality": "valid"
+  },
+  {
+    "reading_id": "s-075",
+    "site_id": "N-03",
+    "sensor_id": "main",
+    "observed_at": "2026-10-03T00:00",
+    "db": 67,
+    "quality": "valid"
+  },
+  {
+    "reading_id": "s-076",
+    "site_id": "N-03",
+    "sensor_id": "main",
+    "observed_at": "2026-10-03T01:00",
+    "db": 64,
+    "quality": "valid"
+  },
+  {
+    "reading_id": "s-077",
+    "site_id": "N-03",
+    "sensor_id": "main",
+    "observed_at": "2026-10-03T23:00",
+    "db": 64,
+    "quality": "partial"
+  },
+  {
+    "reading_id": "s-078",
+    "site_id": "N-03",
+    "sensor_id": "main",
+    "observed_at": "2026-10-04T00:00",
+    "db": 65,
+    "quality": "valid"
+  },
+  {
+    "reading_id": "s-079",
+    "site_id": "N-03",
+    "sensor_id": "main",
+    "observed_at": "2026-10-04T01:00",
+    "db": null,
+    "quality": "offline"
+  },
+  {
+    "reading_id": "s-080",
+    "site_id": "N-03",
+    "sensor_id": "main",
+    "observed_at": "2026-10-05T23:00",
+    "db": 63,
+    "quality": "valid"
+  },
+  {
+    "reading_id": "s-081",
+    "site_id": "N-03",
+    "sensor_id": "main",
+    "observed_at": "2026-10-06T00:00",
+    "db": 66,
+    "quality": "valid"
+  },
+  {
+    "reading_id": "s-082",
+    "site_id": "N-03",
+    "sensor_id": "main",
+    "observed_at": "2026-10-06T01:00",
+    "db": 62,
+    "quality": "valid"
   }
 ]

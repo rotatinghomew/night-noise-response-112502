@@ -3,12 +3,24 @@
     "site_id": "N-01",
     "district": "east",
     "boundary_version": "v1",
-    "active": true
+    "active": true,
+    "patrol_window_start": "22:00",
+    "patrol_window_end": "06:00"
   },
   {
     "site_id": "N-02",
     "district": "west",
     "boundary_version": "v1",
-    "active": true
+    "active": true,
+    "patrol_window_start": "22:00",
+    "patrol_window_end": "06:00"
+  },
+  {
+    "site_id": "N-03",
+    "district": "north",
+    "boundary_version": "v1",
+    "active": true,
+    "patrol_window_start": "22:00",
+    "patrol_window_end": "00:00"
   }
 ]

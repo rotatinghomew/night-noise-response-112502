@@ -1,0 +1,137 @@
+[
+  {
+    "weather_id": "w-001",
+    "site_id": "N-01",
+    "night_date": "2026-10-02",
+    "bucket": "dry",
+    "condition": "clear",
+    "temp_c": 18,
+    "wind_ms": 3.1
+  },
+  {
+    "weather_id": "w-002",
+    "site_id": "N-01",
+    "night_date": "2026-10-03",
+    "bucket": "dry",
+    "condition": "cloudy",
+    "temp_c": 19,
+    "wind_ms": 2.4
+  },
+  {
+    "weather_id": "w-003",
+    "site_id": "N-01",
+    "night_date": "2026-10-04",
+    "bucket": "wet",
+    "condition": "rain",
+    "temp_c": 17,
+    "wind_ms": 4.8
+  },
+  {
+    "weather_id": "w-004",
+    "site_id": "N-01",
+    "night_date": "2026-10-05",
+    "bucket": "dry",
+    "condition": "clear",
+    "temp_c": 16,
+    "wind_ms": 2.0
+  },
+  {
+    "weather_id": "w-005",
+    "site_id": "N-01",
+    "night_date": "2026-10-06",
+    "bucket": "dry",
+    "condition": "clear",
+    "temp_c": 15,
+    "wind_ms": 1.8
+  },
+  {
+    "weather_id": "w-006",
+    "site_id": "N-02",
+    "night_date": "2026-10-02",
+    "bucket": "dry",
+    "condition": "clear",
+    "temp_c": 18,
+    "wind_ms": 2.8
+  },
+  {
+    "weather_id": "w-007",
+    "site_id": "N-02",
+    "night_date": "2026-10-03",
+    "bucket": "dry",
+    "condition": "cloudy",
+    "temp_c": 19,
+    "wind_ms": 2.2
+  },
+  {
+    "weather_id": "w-008",
+    "site_id": "N-02",
+    "night_date": "2026-10-04",
+    "bucket": "dry",
+    "condition": "cloudy",
+    "temp_c": 18,
+    "wind_ms": 2.6
+  },
+  {
+    "weather_id": "w-009",
+    "site_id": "N-02",
+    "night_date": "2026-10-05",
+    "bucket": "dry",
+    "condition": "clear",
+    "temp_c": 16,
+    "wind_ms": 1.9
+  },
+  {
+    "weather_id": "w-010",
+    "site_id": "N-02",
+    "night_date": "2026-10-06",
+    "bucket": "dry",
+    "condition": "clear",
+    "temp_c": 15,
+    "wind_ms": 1.7
+  },
+  {
+    "weather_id": "w-011",
+    "site_id": "N-03",
+    "night_date": "2026-10-02",
+    "bucket": "dry",
+    "condition": "clear",
+    "temp_c": 17,
+    "wind_ms": 3.3
+  },
+  {
+    "weather_id": "w-012",
+    "site_id": "N-03",
+    "night_date": "2026-10-03",
+    "bucket": "dry",
+    "condition": "cloudy",
+    "temp_c": 18,
+    "wind_ms": 2.9
+  },
+  {
+    "weather_id": "w-013",
+    "site_id": "N-03",
+    "night_date": "2026-10-04",
+    "bucket": "dry",
+    "condition": "cloudy",
+    "temp_c": 17,
+    "wind_ms": 2.5
+  },
+  {
+    "weather_id": "w-014",
+    "site_id": "N-03",
+    "night_date": "2026-10-05",
+    "bucket": "dry",
+    "condition": "clear",
+    "temp_c": 15,
+    "wind_ms": 2.1
+  },
+  {
+    "weather_id": "w-015",
+    "site_id": "N-03",
+    "night_date": "2026-10-06",
+    "bucket": "dry",
+    "condition": "clear",
+    "temp_c": 14,
+    "wind_ms": 1.6
+  }
+]

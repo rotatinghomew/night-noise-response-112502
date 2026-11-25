@@ -2,6 +2,8 @@
   {
     "complaint_id": "c-001",
     "site_id": "N-01",
+    "recorded_site_id": "N-01",
+    "zone_id": "zone-a",
     "reported_at": "2026-10-03T22:20",
     "channel": "phone",
     "text_key": "music",
@@ -10,6 +12,8 @@
   {
     "complaint_id": "c-002",
     "site_id": "N-01",
+    "recorded_site_id": "N-01",
+    "zone_id": "zone-a",
     "reported_at": "2026-10-03T22:44",
     "channel": "app",
     "text_key": "music",
@@ -18,7 +22,99 @@
   {
     "complaint_id": "c-003",
     "site_id": "N-02",
+    "recorded_site_id": "N-02",
+    "zone_id": "zone-b",
     "reported_at": "2026-10-03T23:10",
+    "channel": "app",
+    "text_key": "unknown",
+    "status": "received"
+  },
+  {
+    "complaint_id": "c-004",
+    "site_id": "N-01",
+    "recorded_site_id": "N-01",
+    "zone_id": "zone-a",
+    "reported_at": "2026-10-02T23:05",
+    "channel": "app",
+    "text_key": "music",
+    "status": "received"
+  },
+  {
+    "complaint_id": "c-005",
+    "site_id": "N-02",
+    "recorded_site_id": "N-02",
+    "zone_id": "zone-c",
+    "reported_at": "2026-10-05T00:40",
+    "channel": "phone",
+    "text_key": "music",
+    "status": "received"
+  },
+  {
+    "complaint_id": "c-006",
+    "site_id": "N-01",
+    "recorded_site_id": "N-01",
+    "zone_id": "zone-a",
+    "reported_at": "2026-10-04T23:30",
+    "channel": "app",
+    "text_key": "loudspeaker",
+    "status": "received"
+  },
+  {
+    "complaint_id": "c-007",
+    "site_id": "N-02",
+    "recorded_site_id": "N-02",
+    "zone_id": "zone-b",
+    "reported_at": "2026-10-03T23:40",
+    "channel": "phone",
+    "text_key": "music",
+    "status": "received"
+  },
+  {
+    "complaint_id": "c-008",
+    "site_id": "N-01",
+    "recorded_site_id": "N-01",
+    "zone_id": "zone-a",
+    "reported_at": "2026-10-05T22:50",
+    "channel": "app",
+    "text_key": "music",
+    "status": "received"
+  },
+  {
+    "complaint_id": "c-009",
+    "site_id": "N-01",
+    "recorded_site_id": "N-01",
+    "zone_id": "zone-a",
+    "reported_at": "2026-10-05T23:05",
+    "channel": "app",
+    "text_key": "music",
+    "status": "withdrawn"
+  },
+  {
+    "complaint_id": "c-010",
+    "site_id": "N-03",
+    "recorded_site_id": "N-03",
+    "zone_id": "zone-d",
+    "reported_at": "2026-10-03T00:20",
+    "channel": "phone",
+    "text_key": "music",
+    "status": "received"
+  },
+  {
+    "complaint_id": "c-011",
+    "site_id": "N-03",
+    "recorded_site_id": "N-03",
+    "zone_id": "zone-d",
+    "reported_at": "2026-10-06T01:15",
+    "channel": "app",
+    "text_key": "music",
+    "status": "received"
+  },
+  {
+    "complaint_id": "c-012",
+    "site_id": "N-02",
+    "recorded_site_id": "N-02",
+    "zone_id": "zone-b",
+    "reported_at": "2026-10-05T23:50",
     "channel": "app",
     "text_key": "unknown",
     "status": "received"

@@ -1,0 +1,39 @@
+[
+  {
+    "resource_id": "team-a",
+    "resource_type": "team",
+    "qualifications": [
+      "night_patrol",
+      "community_notice"
+    ],
+    "home_site": "N-01"
+  },
+  {
+    "resource_id": "team-b",
+    "resource_type": "team",
+    "qualifications": [
+      "night_patrol"
+    ],
+    "home_site": "N-02"
+  },
+  {
+    "resource_id": "team-c",
+    "resource_type": "team",
+    "qualifications": [
+      "community_notice"
+    ],
+    "home_site": "N-01"
+  },
+  {
+    "resource_id": "e-101",
+    "resource_type": "equipment",
+    "qualifications": [],
+    "home_site": "N-01"
+  },
+  {
+    "resource_id": "e-102",
+    "resource_type": "equipment",
+    "qualifications": [],
+    "home_site": "N-02"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "activity_id": "mkt-01",
+    "site_id": "N-01",
+    "activity_type": "night_market",
+    "version": "v1",
+    "window_start": "21:30",
+    "window_end": "02:30",
+    "effective_from": "2026-10-01T00:00",
+    "effective_to": "2026-10-02T21:59",
+    "is_correction": true,
+    "correction_reason": "商户报备时段更正"
+  },
+  {
+    "activity_id": "mkt-01",
+    "site_id": "N-01",
+    "activity_type": "night_market",
+    "version": "v2",
+    "window_start": "22:00",
+    "window_end": "02:00",
+    "effective_from": "2026-10-02T22:00",
+    "effective_to": null,
+    "is_correction": false,
+    "correction_reason": null
+  },
+  {
+    "activity_id": "mkt-02",
+    "site_id": "N-02",
+    "activity_type": "night_market",
+    "version": "v1",
+    "window_start": "22:00",
+    "window_end": "01:00",
+    "effective_from": "2026-10-01T00:00",
+    "effective_to": null,
+    "is_correction": false,
+    "correction_reason": null
+  },
+  {
+    "activity_id": "ivn-01",
+    "site_id": "N-01",
+    "activity_type": "intervention",
+    "version": "v1",
+    "measure": "限时播放：户外音响 22:30 后停止播放",
+    "window_start": "22:00",
+    "window_end": "06:00",
+    "effective_from": "2026-10-05T22:00",
+    "effective_to": null,
+    "is_correction": false,
+    "correction_reason": null
+  }
+]

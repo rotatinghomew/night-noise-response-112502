@@ -1,0 +1,21 @@
+{
+  "policy_id": "night-noise-policy",
+  "version": "v1",
+  "threshold_db": 65,
+  "night_start": "22:00",
+  "night_end": "06:00",
+  "slot_minutes": 60,
+  "cluster_window_minutes": 60,
+  "maturity_min_valid_ratio": 0.75,
+  "risk_missing_weight": 1.0,
+  "risk_partial_weight": 0.5,
+  "risk_maintenance_weight": 1.0,
+  "risk_offline_weight": 1.0,
+  "patrol_duration_minutes": 60,
+  "notice_duration_minutes": 30,
+  "notice_window_start": "21:30",
+  "notice_window_end": "22:30",
+  "band_high_upper": 0.75,
+  "band_high_lower": 0.5,
+  "band_moderate_upper": 0.25
+}
