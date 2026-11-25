@@ -1,0 +1,26 @@
+[
+  {
+    "complaint_id": "c-001",
+    "site_id": "N-01",
+    "reported_at": "2026-10-03T22:20",
+    "channel": "phone",
+    "text_key": "music",
+    "status": "received"
+  },
+  {
+    "complaint_id": "c-002",
+    "site_id": "N-01",
+    "reported_at": "2026-10-03T22:44",
+    "channel": "app",
+    "text_key": "music",
+    "status": "received"
+  },
+  {
+    "complaint_id": "c-003",
+    "site_id": "N-02",
+    "reported_at": "2026-10-03T23:10",
+    "channel": "app",
+    "text_key": "unknown",
+    "status": "received"
+  }
+]

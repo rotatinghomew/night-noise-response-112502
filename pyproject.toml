@@ -1,0 +1,9 @@
+[build-system]
+requires = []
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "night-noise-response"
+version = "0.1.0"
+description = "夜间噪声证据与巡查资源复议"
+requires-python = ">=3.11"

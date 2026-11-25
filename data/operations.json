@@ -1,0 +1,18 @@
+[
+  {
+    "operation_id": "o-001",
+    "site_id": "N-01",
+    "kind": "patrol",
+    "starts_at": "2026-10-04T00:00",
+    "staff": "team-a",
+    "status": "confirmed"
+  },
+  {
+    "operation_id": "o-002",
+    "site_id": "N-02",
+    "kind": "notice",
+    "starts_at": "2026-10-04T00:00",
+    "staff": "team-a",
+    "status": "proposed"
+  }
+]

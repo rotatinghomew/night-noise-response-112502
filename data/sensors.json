@@ -1,0 +1,23 @@
+[
+  {
+    "reading_id": "s-001",
+    "site_id": "N-01",
+    "observed_at": "2026-10-03T22:00",
+    "db": 68,
+    "quality": "valid"
+  },
+  {
+    "reading_id": "s-002",
+    "site_id": "N-01",
+    "observed_at": "2026-10-03T23:00",
+    "db": null,
+    "quality": "offline"
+  },
+  {
+    "reading_id": "s-003",
+    "site_id": "N-02",
+    "observed_at": "2026-10-03T23:00",
+    "db": 51,
+    "quality": "partial"
+  }
+]

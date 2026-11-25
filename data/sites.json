@@ -1,0 +1,14 @@
+[
+  {
+    "site_id": "N-01",
+    "district": "east",
+    "boundary_version": "v1",
+    "active": true
+  },
+  {
+    "site_id": "N-02",
+    "district": "west",
+    "boundary_version": "v1",
+    "active": true
+  }
+]
